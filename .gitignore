@@ -1,0 +1,28 @@
+# MQL4/MT4 compiled files
+*.ex4
+*.ex5
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Temporary files
+*.tmp
+*.bak
+~*
+
+# MT4 tester files
+tester/
+*.tst
+*.hst
+*.fxt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
